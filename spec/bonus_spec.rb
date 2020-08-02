@@ -9,3 +9,6 @@ describe "#bonus" do
     
   end
 end
+
+epic_tragedy
+end
